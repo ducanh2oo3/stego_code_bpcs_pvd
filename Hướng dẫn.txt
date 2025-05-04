@@ -1,0 +1,16 @@
+Hướng dẫn chạy bài lab:
+	labtainer stego_code_bpcs_pvd
+chạy lệnh:
+python3 pbcs_pvd_embed.py
+chạy lệnh:
+ls
+chạy lệnh:
+ls -lh file(output) file(input)
+
+chạy lệnh:
+python3 pbcs_pvd_extract.py
+
+Chạy lại bài lab:
+
+labtainer -r stego_code_bpcs_pvd
+
